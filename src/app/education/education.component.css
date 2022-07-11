@@ -1,0 +1,16 @@
+.eduction{
+  margin-top: 1rem ;
+  border-bottom: 1px solid #000000;
+}
+
+h3 {
+  line-height: 24px;
+  font-weight: bold;
+  font-size: revert;
+}
+p{
+  line-height: 1.1rem;
+  font-weight: bold;
+  font-size: revert;
+  margin-bottom: 1.5rem;
+}
